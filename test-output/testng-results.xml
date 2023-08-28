@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-05-01T15:15:16 BDT" name="Default suite" finished-at="2021-05-01T15:15:50 BDT" duration-ms="33891">
+    <groups>
+    </groups>
+    <test started-at="2021-05-01T15:15:16 BDT" name="Default test" finished-at="2021-05-01T15:15:50 BDT" duration-ms="33891">
+      <class name="com.ebrahim.mobile.automation.testcases.FlipboardLoginTest">
+        <test-method is-config="true" signature="init()[pri:0, instance:com.ebrahim.mobile.automation.testcases.FlipboardLoginTest@31e5415e]" started-at="2021-05-01T15:15:16 BDT" name="init" finished-at="2021-05-01T15:15:27 BDT" duration-ms="11354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="validateGetStartedButton()[pri:1, instance:com.ebrahim.mobile.automation.testcases.FlipboardLoginTest@31e5415e]" started-at="2021-05-01T15:15:27 BDT" name="validateGetStartedButton" finished-at="2021-05-01T15:15:32 BDT" duration-ms="4173" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateGetStartedButton -->
+        <test-method signature="chooseTopicsTest()[pri:2, instance:com.ebrahim.mobile.automation.testcases.FlipboardLoginTest@31e5415e]" started-at="2021-05-01T15:15:32 BDT" name="chooseTopicsTest" finished-at="2021-05-01T15:15:35 BDT" duration-ms="3499" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chooseTopicsTest -->
+        <test-method signature="skiLoginTest()[pri:3, instance:com.ebrahim.mobile.automation.testcases.FlipboardLoginTest@31e5415e]" started-at="2021-05-01T15:15:35 BDT" name="skiLoginTest" finished-at="2021-05-01T15:15:46 BDT" duration-ms="11264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- skiLoginTest -->
+        <test-method is-config="true" signature="quitDriver()[pri:0, instance:com.ebrahim.mobile.automation.testcases.FlipboardLoginTest@31e5415e]" started-at="2021-05-01T15:15:46 BDT" name="quitDriver" finished-at="2021-05-01T15:15:50 BDT" duration-ms="3543" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quitDriver -->
+      </class> <!-- com.ebrahim.mobile.automation.testcases.FlipboardLoginTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
